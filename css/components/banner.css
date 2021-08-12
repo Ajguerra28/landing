@@ -1,0 +1,24 @@
+.banner {
+  background-image: url("/landing/images/my_background.png");
+  background-size: center;
+  background-position: left;
+  padding: 145px 0;
+}
+
+.banner h1 {
+  color: azure;
+  font-size: 16px;
+}
+
+.banner p {
+  color:azure;
+  font-weight: lighter;
+  font-size: 8px;
+  opacity: .4;
+  margin-bottom: 10px;
+}
+
+.banner-special-p {
+  padding: 4px;
+  margin-left: 25px;
+}

@@ -1,0 +1,25 @@
+.footer {
+  background-color: black;
+  text-align: center;
+  padding: 44.5px;
+  color: azure;
+}
+
+.footer p {
+  font-weight: lighter;
+  font-size: 10px;
+}
+
+.footer a {
+  font-size: 30px;
+  color: brown;
+}
+
+.footer a:hover {
+  opacity: 0.6;
+}
+
+.fab {
+  margin-right: -20px;
+  text-align: center;
+}
